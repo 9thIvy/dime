@@ -1,18 +1,18 @@
 {
-    "name":"Test",
-    "author":"Someone",
-    "version":"0",
+    "name":"D&D",
+    "author":"Gary Gygax",
+    "version":"1",
     "location":"github",
-    "image":"https://cdn.picrew.me/shareImg/org/202501/2_yDvPe4iF.png",
-    "attributes": ["Gumption", "Chutzpah", "Bravado", "Daring-Do"],
+    "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F48%2Fcb%2F53%2F48cb5349f515f6e59edc2a4de294f439.png&f=1&nofb=1&ipt=9654498012be41dd3f75afccda1f98172fb53af611969e4c2b95c2f3b94791b6&ipo=images",
+    "attributes": ["Strength", "Dexterity", "Constitution", "Wisdom"],
     "skillsThirdColumn": "faith",
     "skills0": [
       {
-        "name": "Crying",
+        "name": "Athletics",
         "extra": 1 
       },
       {
-        "name": "Sobbing",
+        "name": "Acrobatics",
         "extra": 1
       }
     ]
