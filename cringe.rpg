@@ -3,5 +3,17 @@
     "author":"You!",
     "version":"0",
     "location":"github",
-    "image":"https://cdn.picrew.me/shareImg/org/202501/258388_cZv8xo0E.png"
-}
+    "image":"https://cdn.picrew.me/shareImg/org/202501/258388_cZv8xo0E.png",
+    "attributes": ["Gumption", "Chutzpah", "Bravado", "Daring-Do"],
+    "skillsThirdColumn": "faith",
+    "skills0": [
+      {
+        "name": "Crying",
+        "extra": 1 
+      },
+      {
+        "name": "Sobbing",
+        "extra": 1
+      }
+    ]
+  }
